@@ -2,7 +2,9 @@
 
 **MS Data Analytics @ Webster University, Austin TX · Graduating Dec 2026 · Open to Data Analyst roles**
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:akshaybanala1607@gmail.com) [![Tableau](https://img.shields.io/badge/Tableau-Public-blue?style=flat&logo=tableau)](https://public.tableau.com/app/profile/akshay.banala)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:akshaybanala16@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=googlechrome)](https://muse.ai/s/one-page-portfolio-dxw6xyxcxggjxax0xb/yaU7O5tLUjEB9Uw4BTRNJLx4DL8PYNhtAi9Jv6tlNM8) [![Tableau](https://img.shields.io/badge/Tableau-Public-blue?style=flat&logo=tableau)](https://public.tableau.com/app/profile/akshay.banala)
+
+**Portfolio:** https://muse.ai/s/one-page-portfolio-dxw6xyxcxggjxax0xb/yaU7O5tLUjEB9Uw4BTRNJLx4DL8PYNhtAi9Jv6tlNM8
 
 ## Featured Projects
 
